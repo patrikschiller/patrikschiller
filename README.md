@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on development of some cool game or 3D tool (renderer, 3D engine etc.)
 - 📫 How to reach me: via my personal email patrik.schiller@centrum.cz or via my LinkedIn account (https://www.linkedin.com/in/patrik-schiller/)
 - :computer: You can also visit my portfolio webpage at http://patrikschiller.com
+- :bird: I'm also available on my twitter account https://twitter.com/patrik_schiller
 
 <!---
 patrikschiller/patrikschiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
